@@ -24,6 +24,7 @@ fclose($file);
 
 ?>
 
+<!-- 登録情報読み出し -->
 <!DOCTYPE html>
 <html lang="ja">
 <head>

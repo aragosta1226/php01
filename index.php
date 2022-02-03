@@ -33,6 +33,7 @@
                 URL: <input id="text" type="text" name="sound">
             </div>
             <section>
+                <!-- ボタンにまとめた -->
                 <!-- <a href="#" class="btn_02_a"><span><button type="submit">SUBMIT</button></span></a> -->
                 <span><button class="btn_02_a" type="submit">SUBMIT</button></span>
             </section>
